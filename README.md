@@ -86,3 +86,5 @@ You can test all available EMS API endpoints using the Postman collection.
 - `GET /events/{event_id}/attendees/` – Get attendees (without pagination)
 - `GET /events/{event_id}/attendees/?page=1&page_size=5` – Get attendees (with pagination)
 
+## API Documentation
+- http://127.0.0.1:8000/swagger/
